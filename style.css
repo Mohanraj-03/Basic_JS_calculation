@@ -1,0 +1,31 @@
+body{
+    background-color:teal
+}
+h1{
+    background:grey;
+    color:red;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
+h3{
+    background-color: rgb(226, 43, 198);
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: xx-large;
+}
+div{
+    background-color: gold;
+    height: 80px;
+    width: 500px;
+    margin: auto;
+}
+p{
+   color:black;
+    text-align: center;
+    padding-top: 25px;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
